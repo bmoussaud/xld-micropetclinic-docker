@@ -1,6 +1,6 @@
 FROM tomcat:8.0
 
-MAINTAINER Benoit Moussaud (bmoussaud@xebialabs.com)
+MAINTAINER Benoit Moussaud  (bmoussaud@xebialabs.com)
 
 ENV MAVEN_VERSION 3.3.3
 
